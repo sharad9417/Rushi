@@ -4,6 +4,7 @@
  </head>
    <body>
       <select id="Month" >
+	<option value=ru
 	<option value="jan">JAN</option>
 	<option value="feb">FEB</option>
 	<option value="march">MAR</option>
