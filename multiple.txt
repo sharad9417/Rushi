@@ -1,0 +1,25 @@
+<html>
+ <head>
+	<title>singlelist</title>
+ </head>
+   <body>
+      <select id="Month" MULTIPLE>
+	<option value="jan">JAN</option>
+	<option value="feb">FEB</option>
+	<option value="march">MAR</option>
+	<option value="april">APR</option>
+	<option value="may">MAY</option>
+	<option value="jun">JUN</option>
+	<option value="july">JULY</option>
+	<option value="aug">AUG</option>
+	<option value="sep">SEP</option>
+	<option value="oct">OCT</option>
+	<option value="nov">NOV</option>
+	<option value="dec">DEC</option>
+   </body>
+
+
+      </select>
+  </body>
+
+</html>
