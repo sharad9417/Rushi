@@ -3,7 +3,7 @@
 	<title>singlelist</title>
  </head>
    <body>
-      <select id="Month" MULTIPLE>
+      <select id="Month" >
 	<option value="jan">JAN</option>
 	<option value="feb">FEB</option>
 	<option value="march">MAR</option>
